@@ -1,0 +1,12 @@
+body {
+    background-image: url(./img/kqom8k73.jpg);
+      
+    background-repeat:repeat;
+    background-position:top center;
+    overflow-x: hidden;
+}
+
+#printAllCountryName {
+    overflow-x: hidden;
+    max-height: 800px;
+}
